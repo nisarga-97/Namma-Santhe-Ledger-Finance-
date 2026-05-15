@@ -124,7 +124,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Nisarga.K
 
 ---
 
