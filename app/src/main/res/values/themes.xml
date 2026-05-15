@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NammaSantheLedger" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#1A237E</item>
+        <item name="colorPrimaryDark">#0D1B6E</item>
+        <item name="colorAccent">#2E7D32</item>
+    </style>
+</resources>
